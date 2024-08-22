@@ -10,7 +10,7 @@ editor_options:
 -   Fork then clone [this repo](https://github.com/eds-221-programming-essentials/eds221-day8-comp) to create a version-controlled R Project for Day 8
 -   Create a new Quarto document
 -   Attach R packages
-
+ 
 
 ```{r}
 #| warning: false
